@@ -1,4 +1,5 @@
 # bankbot
+This bankbot helps the users to check any unknown information regarding bank and the system will works as a bank assistant. The system will get the query from the user and provide the necessary information to the user.
 
 import openai
 import gradio
